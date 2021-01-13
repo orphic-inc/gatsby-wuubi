@@ -1,6 +1,6 @@
 ![Gatsby Logo](https://github.com/vercel/vercel/blob/master/packages/frameworks/logos/gatsby.svg) ~ ![Orphic logo](https://orphic.enterprises/sites/default/files/logo-100px.png)
 
-# Gatsby - Spenser.TV
+# Gatsby - Wuubi.Spenser.TV
 
 This directory is a brief Gatsby [sample app](https://wuubi.spenser.tv) with [Serverless Functions](https://vercel.com/docs/v2/serverless-functions/introduction) that can be deployed with Vercel and zero configuration.
 
